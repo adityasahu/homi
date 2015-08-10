@@ -1,0 +1,11 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/GlassBottles/WebContent/WEB-INF/GlassBottles-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/HappyHomes/src/main/resources/META-INF/spring/HappyHomesSecurity.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/HappyHomes/src/main/resources/META-INF/spring/applicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/HappyHomes/src/main/resources/META-INF/spring/infrastructure.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/HappyHomes/src/main/webapp/WEB-INF/HappyHome-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/HappyHomes/src/main/webapp/WEB-INF/HappyHomes-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/HappyHomes/src/main/webapp/WEB-INF/jboss-as-spring-mvc-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/HappyHomes/src/test/resources/test-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/jboss-springmvc-webapp/src/main/resources/META-INF/spring/applicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/jboss-springmvc-webapp/src/main/resources/META-INF/spring/infrastructure.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1
